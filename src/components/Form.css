@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px 10px rgb(221, 220, 220);
+    width: 350px;
+    padding: 20px;
+}
+.form form{
+    display: flex;
+    flex-direction: column;
+}
+.pre{
+    margin-top: 50px;
+}
+.form p{
+    color: red;
+}
+.sucess{
+    color: rgb(65, 200, 20);
+    text-align: center;
+}
